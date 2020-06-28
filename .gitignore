@@ -1,0 +1,12 @@
+classifier/*
+venv/*
+.DS_Store
+.idea/vcs.xml
+.idea/.name
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/NIH_ChestXraysModels.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/

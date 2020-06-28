@@ -1,0 +1,60 @@
+2020-06-25 00:12:25,063 - The number of files for Training on Atelectasis 6975
+2020-06-25 00:12:25,135 - The number of files for Training on Consolidation 2801
+2020-06-25 00:12:25,243 - The number of files for Training on Infiltration 11961
+2020-06-25 00:12:25,353 - The number of files for Training on Pneumothorax 3260
+2020-06-25 00:12:25,385 - The number of files for Training on Edema 1407
+2020-06-25 00:12:25,406 - The number of files for Training on Emphysema 1519
+2020-06-25 00:12:25,423 - The number of files for Training on Fibrosis 1026
+2020-06-25 00:12:25,486 - The number of files for Training on Effusion 7999
+2020-06-25 00:12:25,550 - The number of files for Training on Pneumonia 843
+2020-06-25 00:12:25,572 - The number of files for Training on Pleural_Thickening 2011
+2020-06-25 00:12:25,599 - The number of files for Training on Cardiomegaly 1657
+2020-06-25 00:12:25,640 - The number of files for Training on Nodule 3783
+2020-06-25 00:12:25,692 - The number of files for Training on Mass 3514
+2020-06-25 00:12:25,720 - The number of files for Training on Hernia 142
+2020-06-25 00:12:25,981 - The number of files for Training on No_Finding 36110
+2020-06-25 00:12:26,246 - The number of files for Test on Atelectasis 910
+2020-06-25 00:12:26,256 - The number of files for Test on Consolidation 394
+2020-06-25 00:12:26,270 - The number of files for Test on Infiltration 1590
+2020-06-25 00:12:26,284 - The number of files for Test on Pneumothorax 417
+2020-06-25 00:12:26,288 - The number of files for Test on Edema 180
+2020-06-25 00:12:26,292 - The number of files for Test on Emphysema 205
+2020-06-25 00:12:26,294 - The number of files for Test on Fibrosis 120
+2020-06-25 00:12:26,303 - The number of files for Test on Effusion 1100
+2020-06-25 00:12:26,311 - The number of files for Test on Pneumonia 97
+2020-06-25 00:12:26,314 - The number of files for Test on Pleural_Thickening 290
+2020-06-25 00:12:26,317 - The number of files for Test on Cardiomegaly 201
+2020-06-25 00:12:26,322 - The number of files for Test on Nodule 504
+2020-06-25 00:12:26,329 - The number of files for Test on Mass 447
+2020-06-25 00:12:26,332 - The number of files for Test on Hernia 17
+2020-06-25 00:12:26,368 - The number of files for Test on No_Finding 4830
+2020-06-25 00:12:26,428 - The number of files for Validation on Atelectasis 3674
+2020-06-25 00:12:26,467 - The number of files for Validation on Consolidation 1472
+2020-06-25 00:12:26,525 - The number of files for Validation on Infiltration 6343
+2020-06-25 00:12:26,584 - The number of files for Validation on Pneumothorax 1625
+2020-06-25 00:12:26,601 - The number of files for Validation on Edema 716
+2020-06-25 00:12:26,612 - The number of files for Validation on Emphysema 792
+2020-06-25 00:12:26,621 - The number of files for Validation on Fibrosis 540
+2020-06-25 00:12:26,656 - The number of files for Validation on Effusion 4218
+2020-06-25 00:12:26,690 - The number of files for Validation on Pneumonia 491
+2020-06-25 00:12:26,702 - The number of files for Validation on Pleural_Thickening 1084
+2020-06-25 00:12:26,716 - The number of files for Validation on Cardiomegaly 918
+2020-06-25 00:12:26,738 - The number of files for Validation on Nodule 2044
+2020-06-25 00:12:26,767 - The number of files for Validation on Mass 1821
+2020-06-25 00:12:26,781 - The number of files for Validation on Hernia 68
+2020-06-25 00:12:26,922 - The number of files for Validation on No_Finding 19421
+2020-06-25 00:12:27,144 - The number of files forAtelectasis 11559
+2020-06-25 00:12:27,176 - The number of files forConsolidation 4667
+2020-06-25 00:12:27,312 - The number of files forInfiltration 19894
+2020-06-25 00:12:27,348 - The number of files forPneumothorax 5302
+2020-06-25 00:12:27,363 - The number of files forEdema 2303
+2020-06-25 00:12:27,380 - The number of files forEmphysema 2516
+2020-06-25 00:12:27,391 - The number of files forFibrosis 1686
+2020-06-25 00:12:27,480 - The number of files forEffusion 13317
+2020-06-25 00:12:27,490 - The number of files forPneumonia 1431
+2020-06-25 00:12:27,513 - The number of files forPleural_Thickening 3385
+2020-06-25 00:12:27,532 - The number of files forCardiomegaly 2776
+2020-06-25 00:12:27,576 - The number of files forNodule 6331
+2020-06-25 00:12:27,615 - The number of files forMass 5782
+2020-06-25 00:12:27,617 - The number of files forHernia 227
+2020-06-25 00:12:28,061 - The number of files forNo_Finding 60361
