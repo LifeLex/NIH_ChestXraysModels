@@ -168,7 +168,7 @@ print(classification_report(y_test, predictions, target_names = ['Pneumonia (Cla
 
 cm = confusion_matrix(y_test,predictions)
 print(cm)
-cm = pd.DataFrame(cm , index = ['0','1'] , columns = ['0','1'])
+cm = pd.DataFrame(cm , index = ['Pneumonia','No Finding'] , columns = ['Pneumonia','No Finding'])
 
 plt.figure(figsize = (10,10))
 sns.heatmap(cm,cmap= "coolwarm", linecolor = 'black' , linewidth = 1 , annot = True, fmt='')
@@ -185,8 +185,9 @@ for c in correct[:6]:
     plt.imshow(x_test[c].reshape(150,150), cmap="gray", interpolation='none')
     plt.title("Predicted Class {},Actual Class {}".format(predictions[c], y_test[c]))
     plt.tight_layout()
-    plt.show()
     i += 1
+
+plt.savefig('Image_plots/results.png')
 plt.show()
 
 i = 0
@@ -198,4 +199,6 @@ for c in incorrect[:6]:
     plt.title("Predicted Class {},Actual Class {}".format(predictions[c], y_test[c]))
     plt.tight_layout()
     i += 1
+
 plt.show()
+print('finish')
