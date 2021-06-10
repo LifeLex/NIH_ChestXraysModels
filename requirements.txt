@@ -6,5 +6,5 @@ tensorflow==1.15.0
 uvicorn==0.10.8
 pydot==1.4.1
 graphviz==0.14
-fastapi==0.38.1
+fastapi==0.65.2
 
